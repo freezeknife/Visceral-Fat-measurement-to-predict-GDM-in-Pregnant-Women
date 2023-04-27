@@ -1,0 +1,19 @@
+# Legend
+
+Variables:
+
+1. Number: Unique ID for the case.
+2. Age (years): Age in years.
+3. Ethnicity: Ethnicity (0 = white; 1 = not white).
+4. Diabetes mellitus: Previous diabetes mellitus (0 = no; 1 = yes).
+5. Mean diastolic BP: Mean diastolic blood pressure in mmHg.
+6. Mean systolic BP: Mean systolic blood pressure in mmHg.
+7. Central Armellini fat (mm): Maternal visceral adipose tissue measurement in mm.
+8. Current Gestational age: Age (weeks of pregnancy, days of pregnancy).
+9. Pregnancies (number): Number of pregnancies.
+10. First fasting glucose (mg/dl): First measured fasting glucose.
+11. BMI pregestational (kg/m): Pregestational body mass index.
+12. Gestational age at birth: Age (weeks of pregnancy, days of pregnancy).
+13. Type of delivery: 0 = vaginal birth; 1 = cesarian section.
+14. Child birth weight (g): Birthweight in grams.
+15. Gestational DM (current gestational diabetes): 0 = no; 1 = yes.
